@@ -17,7 +17,9 @@
 <p align="center">
   <img height="150" src="https://github.com/user-attachments/assets/8ec6e8ee-2240-4a32-828c-fb08f9e9d3ef" />
 </p>
-<p>I'm a 4th year Computer Science student at <a href="https://www.tru.ca/">Thompson Rivers University</a>, and graduating soon (December 2025)! I've been (on and off) programming since 2018, ever since I decided to pursue a career in the technology field. I love learning and pursuing to improve, which is why I try to keep up with making projects and learning new technologies, languages, and much more 😄. I've had multiple experiences that can be found on my <a href="https://www.linkedin.com/in/gkangshim/">LinkedIn</a>. I love everything technology related: Web Development, IT, Software Development, etc.</p>
+<p>
+  I'm a 4th year Computer Science student at <a href="https://www.tru.ca/">Thompson Rivers University</a>, and graduating soon (December 2025)! I've been (on and off) programming since 2018, ever since I decided to pursue a career in the technology field. I love learning. Which is why I try to keep up with making projects, learning new technologies, languages, and much more 😄. I've had multiple experiences that can be found on my <a href="https://www.linkedin.com/in/gkangshim/">LinkedIn</a>. I love everything technology related: Web Development, IT, Software Development, etc.
+</p>
 <h3>Free Time</h3>
 <p>
   I love programming, but when I'm not doing that, I am either playing videogames 🕹️, going to the gym 💪, rock climbing 🧗‍♂️, or chilling 😴.
